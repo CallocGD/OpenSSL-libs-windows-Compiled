@@ -9,6 +9,6 @@ I'll update this repo as new versions are being rolled out. My versions are 64 b
 
 ## NOTICE
 I put the headers for openssl into a zipfile.
-
+If your paranoid about using these I don't blame you and you should compile it yourself if that is the case.
 
 
